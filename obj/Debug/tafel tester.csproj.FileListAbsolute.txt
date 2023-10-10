@@ -1,0 +1,15 @@
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\bin\Debug\tafel tester.exe.config
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\bin\Debug\tafel tester.exe
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\bin\Debug\tafel tester.pdb
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\tafel tester.csproj.AssemblyReference.cache
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\MainWindow.g.cs
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\App.g.cs
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\tafel tester_MarkupCompile.cache
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\tafel tester_MarkupCompile.lref
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\MainWindow.baml
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\tafel tester.g.resources
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\tafel_tester.Properties.Resources.resources
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\tafel tester.csproj.GenerateResource.cache
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\tafel tester.csproj.CoreCompileInputs.cache
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\tafel tester.exe
+C:\Users\twank\Downloads\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\l7-1-rekenvaardigheids-applicatie---tafeltester-TwistedLoki-master\tafel tester\obj\Debug\tafel tester.pdb
